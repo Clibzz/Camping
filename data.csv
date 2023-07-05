@@ -1,0 +1,8 @@
+﻿SpotName;Car;Available;PeopleAmount;Surface
+Beach A;true;true;5;1000
+Mountain B;false;true;2;500
+Park C;true;false;10;2000
+Garden D;false;true;3;800
+Lake E;true;true;8;1500
+Zoo F;true;false;6;3000
+Museum G;false;true;4;600
